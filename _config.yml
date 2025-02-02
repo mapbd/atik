@@ -1,8 +1,8 @@
 # site settings
-title: BNHR
-description: helping you solve your spatial and data problems
+title: Atikur Rahman
+description: your spatial and data solution
 baseurl: "https://mapbd.github.io/atik"
-email: "hi@bnhr.xyz"
+email: "arahman.dcc2@gmail.com"
 
 # default images
 navbar_logo: "/img/logos/BNHR-navbar-logo.webp"
@@ -10,15 +10,15 @@ default_image: "/img/site/images/BNHR-bg.webp"
 favicon: "favicon.ico"
 
 # accounts
-facebook: "bnhr.xyz"
-twitter: "BNHRdotXYZ"
+facebook: "arpon.nil"
+twitter: ""
 instagram:
-github: "benhur07b"
-linkedin: "benhur07b"
-messenger: "bnhr.xyz"
+github: ""
+linkedin: ""
+messenger: "arpon.nil"
 mastodon:
 mumble:
-youtube: "UC6S87N9SY1V6799YvxC14eA"
+youtube: ""
 discord:
 
 # assets
