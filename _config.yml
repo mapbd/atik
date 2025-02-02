@@ -1,7 +1,7 @@
 # site settings
 title: BNHR
 description: helping you solve your spatial and data problems
-baseurl: ""
+baseurl: "https://mapbd.github.io/test/"
 email: "hi@bnhr.xyz"
 
 # default images
