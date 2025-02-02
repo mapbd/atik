@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bnhr.xyz
+Token: 831e784a5f66ab045ac41a1269b07d1f3ec7d650b0b47784caaf75ad808ff28a
